@@ -1,0 +1,8 @@
+Exchange mod for minetest
+=========================
+
+Adds an "exchange table" for safe trades, and an "exchange shop" for automatic selling.
+
+Credits and licenses:
+- Code by Zeg9, released under WTFPL
+- Textures by rarkenin and Zeg9, released under CC0
